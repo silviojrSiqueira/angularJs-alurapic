@@ -1,2 +1,2 @@
-# angularJs-alurapic
-Estudos sobre Angular Js
+# AngularJs - AluraPic
+Estudando AngularJs atráves do curso da alura.
